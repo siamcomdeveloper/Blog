@@ -28,7 +28,7 @@
     
     <section id="main">
         @foreach($posts as $post)
-            @if($post['id']>($display_page*($page-1)) && $post['id']<(($display_page)*$page))<!-- page process with page parameter -->
+            @if($post['id']>($display_page*($page-1)) && $post['id']<(($display_page+1)*$page))<!-- page process with page parameter -->
                 <div id="style-well{{$post['id']%2}}" class="well">
                     <div class="row">
                         <div class="column1 col-lg-2">
