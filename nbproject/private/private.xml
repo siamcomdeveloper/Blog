@@ -3,10 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/app/Providers/RouteServiceProvider.php</file>
-            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/site.layout.blade.php</file>
-            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/routes/web.php</file>
-            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/about.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/site/forums/forum.blade.php</file>
         </group>
     </open-files>
 </project-private>
