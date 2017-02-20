@@ -18,7 +18,7 @@
 
 Route::get('/', function (){ 
     //return myfunc();
-    $authors = loadJSON('authors');
+    /*$authors = loadJSON('authors');
     dd($authors);
     //$author = $authors[0]; // first object in "data" array - Jack
     //return $author['id']; // Jack's name
@@ -26,7 +26,8 @@ Route::get('/', function (){
     //echo $authors[3]['place'] . '<br>';
     foreach($authors as $author){
       echo $author['id'] . $author['name'] . $author['role'] . $author['place'] . $author['avatar_url'] . '<br>';
-    }
+    }*/
+    return view('welcome');
 });
 
 //Use sometime
