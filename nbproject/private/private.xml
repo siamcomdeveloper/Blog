@@ -4,6 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/site/forums/forum.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/admin/master.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/site/layout.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/admin/form/blog.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/admin/list/blog.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/welcome.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/site/index.blade.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/routes/web.php</file>
+            <file>file:/C:/Users/takatanonly/Documents/src/Laravel/resources/views/about.blade.php</file>
         </group>
     </open-files>
 </project-private>
