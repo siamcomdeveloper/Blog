@@ -1,3 +1,3 @@
 CRUD app with Laravel + Bootstrap + MySQL + AWS Ubuntu Server
 
-http://54.169.50.11/admin/blog
+http://54.169.50.11:8000/admin/blog
